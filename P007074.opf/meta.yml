@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5144
   title: མདོ་སྔགས་ཟུང་དུ་འཇུག་པའི་སྤྱོད་ཡུལ་ལམ་འཁྱེར་སངས་རྒྱས་ལམ་བཞུགས་སོགས་ཉེར་མཁོའི་སྐོར་འགའ་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ།
-  volume: ''
+  volume:
+    f1655f38017149ff88bf06fc2f7a7bc1:
+      image_group_id: I3CN5146
+      title: Volume 1 of mdo sngags zung du 'jug pa'i spyod yul lam 'khyer sangs rgyas
+        lam bzhugs sogs nyer mkho'i skor 'ga' phyogs gcig tu bsgrigs pa/
+      volume_number: 1
+      total_pages: 52
   author: ''
+ebook_metadata:
+  title: མདོ་སྔགས་ཟུང་དུ་འཇུག་པའི་སྤྱོད་ཡུལ་ལམ་འཁྱེར་སངས་རྒྱས་ལམ་བཞུགས་སོགས་ཉེར་མཁོའི་སྐོར་འགའ་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ།
+  author: ''
+  sku: P007074
+  cover: cover.jpg
+  layers:
+  - pagination
